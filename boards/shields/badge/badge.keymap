@@ -8,12 +8,12 @@
         default_layer { // Layer 0
 
             bindings = <
-                &kp A
-                &kp S
-                &kp W
-                &kp D    
-                &kp SPACE
-                &studio_unlock
+                &kp LEFT
+                &kp DOWN
+                &kp UP
+                &kp RIGHT    
+                &kp X
+                &kp Z
             >;
         };
     };
